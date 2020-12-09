@@ -1,26 +1,7 @@
-ÊµÑéÆ÷²Ä:
-	MiniSTM32F103¿ª·¢°åV3°æ±¾
-	
-ÊµÑéÄ¿µÄ:
-	Ñ§Ï°GPIO×÷ÎªÊä³öµÄÊ¹ÓÃ
-	
-Ó²¼þ×ÊÔ´:
-	1,DS0(Á¬½ÓÔÚPA8) 
-	2,DS1(Á¬½ÓÔÚPD2)
-	
-ÊµÑéÏÖÏó:
-	±¾ÊµÑéÍ¨¹ý´úÂë¿ØÖÆ¿ª·¢°åÉÏµÄÁ½¸öLED£ºDS0ºÍDS1½»ÌæÉÁË¸£¬ÊµÏÖÀàËÆÅÜÂíµÆµÄÐ§¹û¡£ 
-	
-×¢ÒâÊÂÏî:
-	ÎÞ.
-	 
-	 
-					ÕýµãÔ­×Ó@ALIENTEK
-					2014-3-05
-					¹ãÖÝÊÐÐÇÒíµç×Ó¿Æ¼¼ÓÐÏÞ¹«Ë¾
-					µç»°£º020-38271790
-					´«Õæ£º020-36773971
-					¹ºÂò£ºhttp://shop62103354.taobao.com
-					http://shop62057469.taobao.com
-					¹«Ë¾ÍøÕ¾£ºwww.alientek.com
-					¼¼ÊõÂÛÌ³£ºwww.openedv.com
+ä¸»æŽ§éƒ¨åˆ†ï¼šstm32f103c8t6
+èœ‚é¸£å™¨éƒ¨åˆ†ï¼šæœ‰æºèœ‚é¸£å™¨æ¨¡å—
+æ¸©æ¹¿åº¦ä¼ æ„Ÿå™¨ï¼šdht11
+å…‰ç…§åº¦ä¼ æ„Ÿå™¨ï¼šbh1750
+WiFiæ¨¡ç»„ï¼šESP8266-01s
+å±å¹•éƒ¨åˆ†ï¼š0.96å¯¸OLEDï¼ˆé‡‡ç”¨IICæŽ¥å£ï¼‰
+ä¸²å£è½¬æ¢éƒ¨åˆ†ï¼šCP2102
